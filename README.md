@@ -24,3 +24,5 @@ _This starts the server in non-database mode._ It will serve a simple webpage at
 You do _not_ need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
 MYNAME's version of Boot.dev's Notely app
+
+Status: ![status](https://github.com/m00shm00sh/bd-cicd-ts/actions/workflows/ci.yml/badge.svg)
